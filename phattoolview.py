@@ -19,7 +19,7 @@ init(autoreset=True)
 
 # Function to print the colored title with gradient colors
 def print_colored_title():
-    print(Fore.YELLOW + "           .-/+osssso+/-`")
+    print(Fore.YELLOW + "                       .-/+osssso+/-`")
     print(Fore.GREEN + "                   `/sdNMMMMMMMMMMMMMMNds/`")
     print(Fore.GREEN + "                .odMMMMMMMMMMMMMMMMMMMMMMMMdo.")
     print(Fore.YELLOW + "              :hMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMh:")
